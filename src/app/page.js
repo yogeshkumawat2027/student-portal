@@ -41,12 +41,12 @@ export default function Home() {
           >
             Sign In
           </button>
-          <button
+          {/* <button
             onClick={() => router.push("/admin/login")}
             className="px-8 py-4 bg-orange-600 text-white rounded-xl text-lg font-semibold hover:bg-orange-500 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
           >
             Admin Login
-          </button>
+          </button> */}
         </div>
       </div>
 
